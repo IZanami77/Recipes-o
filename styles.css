@@ -1,0 +1,39 @@
+*{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.title{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 36px;
+    text-align: center;
+    
+}
+.list{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 16px;
+    display: block;
+}
+li{
+    margin-bottom: 10px;
+}
+.container{
+    display: inline;
+    align-items: center;
+    
+}
+.img1{
+    display: flex;
+    font-size: 16px;
+}
+.img2{
+    display: flex;
+    font-size: 16px;
+}
+
+.img3{
+    display: flex;
+    font-size: 16px;
+}
+img{
+    margin: 10px;
+}
